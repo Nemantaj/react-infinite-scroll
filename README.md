@@ -1,5 +1,5 @@
 # React infinite scrolling
 
-username :- generic
+username :- "generic",
 password :- 12345678
 
